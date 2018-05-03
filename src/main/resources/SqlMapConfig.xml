@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<!--  didn't use -->
+<configuration>
+    <!-- MyBatis 按照如下的顺序加载它们 1.在 properties 元素体内指定的属性首先被读取。 2.从类路径下资源或 properties
+        元素的 url 属性中加载的属性第二被读取,它会 覆盖已经存在的完全一样的属性。 3.作为方法参数传递的属性最后被读取,它也会覆盖任一已经存在的完全一样的
+        属性,这些属性可能是从 properties 元素体内和资源/url 属性中加载的。 -->
+    <!-- <properties resource="com/bupt/mybatis/config.properties">
+        <property name="username" value="root" />
+        <property name="password" value="yang1290" />
+    </properties> -->
+
+</configuration>
